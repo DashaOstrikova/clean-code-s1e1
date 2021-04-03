@@ -37,7 +37,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .form {
@@ -139,7 +139,7 @@
 }
 
 .list__item > .field {
-  width: 226px
+  width: 226px;
 }
 
 .list__item > .button_delete:hover {
@@ -158,18 +158,18 @@
 
 /* Completed */
 .list__task-name_completed {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list__item .field {
-  display: none
+  display: none;
 }
 
 .list__item_edit-mode .field {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .list__item_edit-mode .list__task-name {
