@@ -49,11 +49,14 @@
   padding: 0px;
 }
 
-.list__item, .title {
+.list__item,
+.title {
   list-style: none;
 }
 
-.list__checkbox,.field,.button{
+.list__checkbox,
+.field,
+.button{
   outline: none;
 }
 
